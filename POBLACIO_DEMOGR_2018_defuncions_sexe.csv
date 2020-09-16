@@ -1,0 +1,147 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Sexe","Nombre"
+2018,1,"Ciutat Vella",1,"el Raval","Home",143
+2018,1,"Ciutat Vella",2,"el Barri Gòtic","Home",61
+2018,1,"Ciutat Vella",3,"la Barceloneta","Home",78
+2018,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home",65
+2018,2,"Eixample",5,"el Fort Pienc","Home",136
+2018,2,"Eixample",6,"la Sagrada Família","Home",217
+2018,2,"Eixample",7,"la Dreta de l'Eixample","Home",177
+2018,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home",167
+2018,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home",266
+2018,2,"Eixample",10,"Sant Antoni","Home",169
+2018,3,"Sants-Montjuïc",11,"el Poble Sec","Home",171
+2018,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home",9
+2018,3,"Sants-Montjuïc",13,"la Marina de Port","Home",156
+2018,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home",36
+2018,3,"Sants-Montjuïc",15,"Hostafrancs","Home",58
+2018,3,"Sants-Montjuïc",16,"la Bordeta","Home",93
+2018,3,"Sants-Montjuïc",17,"Sants - Badal","Home",110
+2018,3,"Sants-Montjuïc",18,"Sants","Home",167
+2018,4,"Les Corts",19,"les Corts","Home",209
+2018,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home",103
+2018,4,"Les Corts",21,"Pedralbes","Home",45
+2018,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home",17
+2018,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home",107
+2018,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home",72
+2018,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home",120
+2018,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home",185
+2018,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home",107
+2018,6,"Gràcia",28,"Vallcarca i els Penitents","Home",66
+2018,6,"Gràcia",29,"el Coll","Home",45
+2018,6,"Gràcia",30,"la Salut","Home",63
+2018,6,"Gràcia",31,"la Vila de Gràcia","Home",189
+2018,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home",175
+2018,7,"Horta-Guinardó",33,"el Baix Guinardó","Home",142
+2018,7,"Horta-Guinardó",34,"Can Baró","Home",53
+2018,7,"Horta-Guinardó",35,"el Guinardó","Home",161
+2018,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home",41
+2018,7,"Horta-Guinardó",37,"el Carmel","Home",164
+2018,7,"Horta-Guinardó",38,"la Teixonera","Home",55
+2018,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home",55
+2018,7,"Horta-Guinardó",40,"Montbau","Home",52
+2018,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home",25
+2018,7,"Horta-Guinardó",42,"la Clota","Home",0
+2018,7,"Horta-Guinardó",43,"Horta","Home",147
+2018,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home",123
+2018,8,"Nou Barris",45,"Porta","Home",129
+2018,8,"Nou Barris",46,"el Turó de la Peira","Home",97
+2018,8,"Nou Barris",47,"Can Peguera","Home",13
+2018,8,"Nou Barris",48,"la Guineueta","Home",91
+2018,8,"Nou Barris",49,"Canyelles","Home",43
+2018,8,"Nou Barris",50,"les Roquetes","Home",67
+2018,8,"Nou Barris",51,"Verdun","Home",71
+2018,8,"Nou Barris",52,"la Prosperitat","Home",140
+2018,8,"Nou Barris",53,"la Trinitat Nova","Home",43
+2018,8,"Nou Barris",54,"Torre Baró","Home",16
+2018,8,"Nou Barris",55,"Ciutat Meridiana","Home",25
+2018,8,"Nou Barris",56,"Vallbona","Home",16
+2018,9,"Sant Andreu",57,"la Trinitat Vella","Home",34
+2018,9,"Sant Andreu",58,"Baró de Viver","Home",7
+2018,9,"Sant Andreu",59,"el Bon Pastor","Home",70
+2018,9,"Sant Andreu",60,"Sant Andreu","Home",206
+2018,9,"Sant Andreu",61,"la Sagrera","Home",140
+2018,9,"Sant Andreu",62,"el Congrés i els Indians","Home",75
+2018,9,"Sant Andreu",63,"Navas","Home",95
+2018,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home",193
+2018,10,"Sant Martí",65,"el Clot","Home",115
+2018,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home",51
+2018,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home",17
+2018,10,"Sant Martí",68,"el Poblenou","Home",125
+2018,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home",38
+2018,10,"Sant Martí",70,"el Besòs i el Maresme","Home",95
+2018,10,"Sant Martí",71,"Provençals del Poblenou","Home",75
+2018,10,"Sant Martí",72,"Sant Martí de Provençals","Home",125
+2018,10,"Sant Martí",73,"la Verneda i la Pau","Home",149
+2018,1,"Ciutat Vella",1,"el Raval","Dona",142
+2018,1,"Ciutat Vella",2,"el Barri Gòtic","Dona",61
+2018,1,"Ciutat Vella",3,"la Barceloneta","Dona",73
+2018,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona",85
+2018,2,"Eixample",5,"el Fort Pienc","Dona",170
+2018,2,"Eixample",6,"la Sagrada Família","Dona",314
+2018,2,"Eixample",7,"la Dreta de l'Eixample","Dona",304
+2018,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona",239
+2018,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona",298
+2018,2,"Eixample",10,"Sant Antoni","Dona",212
+2018,3,"Sants-Montjuïc",11,"el Poble Sec","Dona",183
+2018,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona",8
+2018,3,"Sants-Montjuïc",13,"la Marina de Port","Dona",148
+2018,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona",61
+2018,3,"Sants-Montjuïc",15,"Hostafrancs","Dona",81
+2018,3,"Sants-Montjuïc",16,"la Bordeta","Dona",82
+2018,3,"Sants-Montjuïc",17,"Sants - Badal","Dona",105
+2018,3,"Sants-Montjuïc",18,"Sants","Dona",180
+2018,4,"Les Corts",19,"les Corts","Dona",237
+2018,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona",108
+2018,4,"Les Corts",21,"Pedralbes","Dona",61
+2018,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona",21
+2018,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona",154
+2018,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona",79
+2018,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona",155
+2018,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona",250
+2018,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona",127
+2018,6,"Gràcia",28,"Vallcarca i els Penitents","Dona",90
+2018,6,"Gràcia",29,"el Coll","Dona",28
+2018,6,"Gràcia",30,"la Salut","Dona",94
+2018,6,"Gràcia",31,"la Vila de Gràcia","Dona",276
+2018,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona",157
+2018,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona",205
+2018,7,"Horta-Guinardó",34,"Can Baró","Dona",36
+2018,7,"Horta-Guinardó",35,"el Guinardó","Dona",182
+2018,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona",41
+2018,7,"Horta-Guinardó",37,"el Carmel","Dona",140
+2018,7,"Horta-Guinardó",38,"la Teixonera","Dona",34
+2018,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona",58
+2018,7,"Horta-Guinardó",40,"Montbau","Dona",88
+2018,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona",32
+2018,7,"Horta-Guinardó",42,"la Clota","Dona",4
+2018,7,"Horta-Guinardó",43,"Horta","Dona",161
+2018,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona",160
+2018,8,"Nou Barris",45,"Porta","Dona",135
+2018,8,"Nou Barris",46,"el Turó de la Peira","Dona",91
+2018,8,"Nou Barris",47,"Can Peguera","Dona",15
+2018,8,"Nou Barris",48,"la Guineueta","Dona",72
+2018,8,"Nou Barris",49,"Canyelles","Dona",34
+2018,8,"Nou Barris",50,"les Roquetes","Dona",52
+2018,8,"Nou Barris",51,"Verdun","Dona",56
+2018,8,"Nou Barris",52,"la Prosperitat","Dona",125
+2018,8,"Nou Barris",53,"la Trinitat Nova","Dona",55
+2018,8,"Nou Barris",54,"Torre Baró","Dona",6
+2018,8,"Nou Barris",55,"Ciutat Meridiana","Dona",37
+2018,8,"Nou Barris",56,"Vallbona","Dona",7
+2018,9,"Sant Andreu",57,"la Trinitat Vella","Dona",24
+2018,9,"Sant Andreu",58,"Baró de Viver","Dona",10
+2018,9,"Sant Andreu",59,"el Bon Pastor","Dona",45
+2018,9,"Sant Andreu",60,"Sant Andreu","Dona",243
+2018,9,"Sant Andreu",61,"la Sagrera","Dona",120
+2018,9,"Sant Andreu",62,"el Congrés i els Indians","Dona",99
+2018,9,"Sant Andreu",63,"Navas","Dona",101
+2018,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona",203
+2018,10,"Sant Martí",65,"el Clot","Dona",99
+2018,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona",53
+2018,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona",21
+2018,10,"Sant Martí",68,"el Poblenou","Dona",163
+2018,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona",51
+2018,10,"Sant Martí",70,"el Besòs i el Maresme","Dona",98
+2018,10,"Sant Martí",71,"Provençals del Poblenou","Dona",74
+2018,10,"Sant Martí",72,"Sant Martí de Provençals","Dona",117
+2018,10,"Sant Martí",73,"la Verneda i la Pau","Dona",147
