@@ -373,7 +373,7 @@ Aquests valors no són ni més ni menys que l'ordre en el que es troba, cada un 
 
 Ordenant d'aquesta manera els districtes amb una puntuació que indica la posició en la que es troben quan s'ordenen els paràmetres *atur* i *lloguer* de més alts a més baixos , podem observar la relació entre tots dos paràmetres en cada un dels districtes.
 
-```{r, echo=FALSE, fig.align='center', fig.cap="Figura 7: Rànking dels districtes pel que fa a la taxa d'atur i el preu del lloguer"}
+```{r, echo=FALSE, fig.align='center', fig.cap="Figura 6: Rànking dels districtes pel que fa a la taxa d'atur i el preu del lloguer"}
 barris<- c("Nou Barris",  " Sant Andreu","Ciutat Vella", 
            "Sants-Montjuic","Sant Martí","Horta-Guinardo","Gracia",
            "Eixample", "Les Corts","Sarria-Sant Gervasi")
@@ -407,7 +407,7 @@ Per tant, veiem com districtes on la taxa d'atur és superior que en altres, els
 
 Si agrupem els districtes per clústers (grups que comparteixen semblances entre ells i diferències amb la resta de grups) observem que la classificació final dels districtes de Barcelona queda de la següent manera:
 
-```{r, warnings=FALSE, echo=FALSE, fig.cap="Figura 8: Agrupació dels districtes de Barcelona en 3 clústers en funció de 2 paràmetres: atur i lloguer", fig.align='center'}
+```{r, warnings=FALSE, echo=FALSE, fig.cap="Figura 7: Agrupació dels districtes de Barcelona en 3 clústers en funció de 2 paràmetres: atur i lloguer", fig.align='center'}
 dadesTOT_2<- merge(lloguer_tot_distr, resum19, by.x="Nom_Districte", by.y="Districte")
 dadesTOT_2<- dadesTOT_2[,c(1,2,4)]
 
