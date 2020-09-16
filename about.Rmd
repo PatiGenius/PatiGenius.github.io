@@ -19,7 +19,9 @@ library(kableExtra)
 library(corrplot)
 ```
 
-
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.path="C:/Users/patig/OneDrive/Desktop/PatiGenius.github.io")
+```
 
 
 ```{r, include=FALSE}
