@@ -1,11 +1,11 @@
-name: "La meva web"
+name: "World Data Viz Challenge 2020"
 output_dir: "."
 navbar:
-  title: "La meva web"
+  title: "La meva web. World Data Viz Challenge 2020"
   left:
-    - text: "Home"
+    - text: "Motivació"
       href: index.html
-    - text: "About"
+    - text: "Resultats"
       href: about.html
 output:
   html_document:

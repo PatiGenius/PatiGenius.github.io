@@ -1,5 +1,16 @@
 ---
-title: "Anàlisis de les dades Open Data"
+title: "Perquè participar en aquest World Data Viz Challenge?"
 ---
 
-Hello, Website!
+La motivació per a participar en aquest concurs ha estat generada per l'interès d'analitzar dades de la meva població, la ciutat de Barcelona, que es troben disponibles i estan a l'abast de tots els habitants, però que mai he sabut ni m'he plantejat l'ocasió de poder estudiar.
+Proposar-me l'objectiu de donar llum a algunes de les necessitats dels habitants de Barcelona, i poder donar resposta a alguns dels reptes descrits a l'Agenda 2030 de la ciutat comtal, ha estat tot un repte.
+
+Els arxius a partir dels quals s'han realitzat les divereses visualitzacions corresponen a fitxers de dos blocs temàtics del portal Open Data BCN: **Economia** i **Territori**. 
+La finalitat d'aquesta visualització és mostrar quina és la situació de l'atur a la ciutat de Barcelona i la problemàtica existent amb el preu dels lloguers de les vivendes.Crec fermament que un habitatge digne permet tenir una vida digne, i és per això que visualitzarem la gran problemàtica dels preus dels lloguers, que alhora es troba amb la alta, i cada cop més preocupant, taxa d'atur dels ciutadans.
+
+***Una vida digne requereix d'un habitatge digne, que cumpleixi uns requisits mínims que permeti als individus desenvolupar les seves funcions de projecte vital i socioeconòmiques, d'entre altres***. 
+
+El dret a l'habitatge ha de poder garantir als individus dur a terme les funcions biològiques bàsiques com alimentar-se, dormir, l'higiene, reproduir-se i criar. A més a més ha de poder permetre altres aspectes, com la convivència, que incentiva els vincles emocionals i la projecció personal, per tal que l'individu pugui residir amb seguretat en un espai on poder tenir intimitat, descansar i desenvolupar tasques de tipus professional. També, pel que fa a les funcions socioeconòmiques, una persona que resideix en un habitatge, està aportant al PIB, genera relacions amb l'entorn (barri), i inverteix en espais i serveis de la zona ... És un doble guany que cal promoure.
+
+***L'oportunitat de poder disposar d'un habitatge digne es veu limitada per l'augment dels preus dels lloguers en els últims anys, per l'increment de la taxa d'atur i pels sous de la població activa no aturada, que moltes vegades no permeten poder pagar els preus dels lloguers de les vivendes.***
+
