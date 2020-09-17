@@ -1,5 +1,6 @@
 ---
 title: "Visualització dels resultats"
+output: rmarkdown::github_document
 ---
   
 ```{r setup, include=FALSE}
@@ -20,7 +21,7 @@ library(corrplot)
 ```
 
 ```{r global_options, include=FALSE}
-knitr::opts_chunk$set(fig.path="C:/Users/patig/OneDrive/Desktop/PatiGenius.github.io")
+knitr::opts_chunk$set(fig.path="C:/Users/patig/OneDrive/Desktop/PatiGenius.github.io/about_files/figure-html")
 ```
 
 
@@ -112,7 +113,7 @@ levels(ECONOMIAEMPR_OCUP_2020_Pes_del_atur_registrat_sobre_poblacio_16_64_anys.c
 
 A partir de les dades d'aquesta taula, visualitzem el següent gràfic, on podem observar, en mitjana, el pes de l'atur a cada un dels districtes de la ciutat de Barcelona, l'any 2019.
 
-```{r, echo=FALSE, fig.cap="Figura 1: Pes de l'atur per districtes a BCN l'any 2019.", fig.align='center'}
+```{r, echo=FALSE, fig.cap="Figura 1: Pes de l'atur per districtes a BCN l'any 2019."}
 ggplot(resum2019) + geom_point(aes(Nom_Districte, Mitj_Pes, size=Pobl)) +
   theme_minimal() + 
   theme(axis.text.x = element_text(angle = 40, hjust = 1, size=9), axis.title.x = element_text(size=11), axis.title.y = element_text(size=11)) +
@@ -130,7 +131,7 @@ A continuació, podem observar la distribució de la taxa d'atur entre districte
 **Què vol dir la distribució de la taxa d'atur entre districtes?**
 A cada districte trobem diferent número de barris. La distribució de la taxa d'atur en un districte correspon, per tant, a la dispersió que trobem de la taxa d'atur entre els diferents barris d'un mateix districte. 
 
-```{r, echo=FALSE, fig.cap="Figura 2: Pes de l'atur per districtes a BCN l'any 2019", fig.align='center', render=FALSE}
+```{r, echo=FALSE, fig.cap="Figura 2: Pes de l'atur per districtes a BCN l'any 2019",  render=FALSE}
 #### fem la distribucio dels pesos de l'atur per mes i districte#####
 
 ggplot(data = ECONOMIAEMPR_OCUP_2019_Pes_del_atur_registrat_sobre_poblacio_16_64_anys.csv,
@@ -157,7 +158,7 @@ Podem veure com la taxa d'atur que presenta una major dispersió és la del dist
 
 Podem observar la mateixa distribució de la taxa d'atur per districtes durant els mesos registrats de l'any 2020:
 
-```{r, echo=FALSE, fig.cap="Figura 3: Pes de l'atur per districtes a BCN l'any 2020", fig.align='center'}
+```{r, echo=FALSE, fig.cap="Figura 3: Pes de l'atur per districtes a BCN l'any 2020"}
 ggplot(data = ECONOMIAEMPR_OCUP_2020_Pes_del_atur_registrat_sobre_poblacio_16_64_anys.csv,
        mapping = aes(x = reorder(Nom_Districte, Pes_atur,FUN = mean),y = Pes_atur)) +
   geom_boxplot(alpha=0.3, outlier.colour = "blue") +
@@ -288,7 +289,7 @@ p2 <- ggplot(data, aes(x=as.factor(id), y=Desv_Pes, fill=Nom_Districte)) +
 
 A continuació mostrem el percentatge mitjà de persones aturades, d'entre la població activa de l'any 2019, de cada un dels barris, agrupats en funció del districte al qual pertanyen:
 
-```{r, echo=FALSE, warning=FALSE, fig.cap="Figura 4: Percentatge de població aturada en cada barri, agrupats per districte.", fig.align='center'}
+```{r, echo=FALSE, warning=FALSE, fig.cap="Figura 4: Percentatge de població aturada en cada barri, agrupats per districte."}
 p
 ```
 
@@ -348,7 +349,7 @@ kable(lloguer_tot_distr2, caption="Taula 2: Preu mitjà del lloguer mensual als 
 
 Mostrem l'evolució del lloguer mensual en els últims 5 anys:
 
-```{r, echo=FALSE, fig.cap="Figura 5: Evolució del preu mitjà del lloguer mensual de les vivendes dels districtes de BCN. Des del 2015 fins al 2019.", fig.align='center'}
+```{r, echo=FALSE, fig.cap="Figura 5: Evolució del preu mitjà del lloguer mensual de les vivendes dels districtes de BCN. Des del 2015 fins al 2019."}
 ggplot(lloguer_tot_distrANY) + geom_point(aes(Nom_Districte, mitj_preu)) +
   theme_minimal() + 
   theme(axis.text.x = element_text(angle = 40, hjust = 1, size=9)) +
@@ -373,7 +374,7 @@ Aquests valors no són ni més ni menys que l'ordre en el que es troba, cada un 
 
 Ordenant d'aquesta manera els districtes amb una puntuació que indica la posició en la que es troben quan s'ordenen els paràmetres *atur* i *lloguer* de més alts a més baixos , podem observar la relació entre tots dos paràmetres en cada un dels districtes.
 
-```{r, echo=FALSE, fig.align='center', fig.cap="Figura 6: Rànking dels districtes pel que fa a la taxa d'atur i el preu del lloguer"}
+```{r, echo=FALSE, fig.cap="Figura 6: Rànking dels districtes pel que fa a la taxa d'atur i el preu del lloguer"}
 barris<- c("Nou Barris",  " Sant Andreu","Ciutat Vella", 
            "Sants-Montjuic","Sant Martí","Horta-Guinardo","Gracia",
            "Eixample", "Les Corts","Sarria-Sant Gervasi")
@@ -407,7 +408,7 @@ Per tant, veiem com districtes on la taxa d'atur és superior que en altres, els
 
 Si agrupem els districtes per clústers (grups que comparteixen semblances entre ells i diferències amb la resta de grups) observem que la classificació final dels districtes de Barcelona queda de la següent manera:
 
-```{r, warnings=FALSE, echo=FALSE, fig.cap="Figura 7: Agrupació dels districtes de Barcelona en 3 clústers en funció de 2 paràmetres: atur i lloguer", fig.align='center'}
+```{r, warnings=FALSE, echo=FALSE, fig.cap="Figura 7: Agrupació dels districtes de Barcelona en 3 clústers en funció de 2 paràmetres: atur i lloguer"}
 dadesTOT_2<- merge(lloguer_tot_distr, resum19, by.x="Nom_Districte", by.y="Districte")
 dadesTOT_2<- dadesTOT_2[,c(1,2,4)]
 
