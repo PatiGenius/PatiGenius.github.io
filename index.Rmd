@@ -14,3 +14,8 @@ El dret a l'habitatge ha de poder garantir als individus dur a terme les funcion
 
 ***L'oportunitat de poder disposar d'un habitatge digne es veu limitada per l'augment dels preus dels lloguers en els últims anys, per l'increment de la taxa d'atur i pels sous de la població activa no aturada, que moltes vegades no permeten poder pagar els preus dels lloguers de les vivendes.***
 
+```{r, fig.align="center", echo=FALSE, width=250}
+knitr::include_graphics("C:/Users/patig/OneDrive/Desktop/imatgeworlddata.png")
+```
+
+
